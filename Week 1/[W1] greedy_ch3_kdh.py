@@ -34,11 +34,7 @@ print("\n # of party: ", count)
 
 # Exercise 3-3 (문자열 뒤집기)
 data = list(map(str, input().split()))[0]
-print(data)
-
-data = '0001100'
 data_sliced = list(data)
-print(data_sliced)
 idn_list = []
 
 for i in range(len(data_sliced)):
