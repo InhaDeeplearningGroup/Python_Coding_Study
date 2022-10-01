@@ -25,4 +25,5 @@
 |Sangjin Park|Python coding practice|N/A|
 |Junmin Lee|Python coding practice|N/A|
 |Heejin Lee|Python coding practice|N/A|
+|Soojung Kim|Python coding practice|N/A|
 
