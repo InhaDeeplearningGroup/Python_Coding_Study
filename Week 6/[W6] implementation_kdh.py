@@ -2,11 +2,10 @@
 """
 Created on Tue Dec 27 20:44:49 2022
 
-@author: user
+@reference link: https://github.com/ndb796
 """
 
 
-# Q.24 (안테나)
 n = int(input())
 a = list(map(int, input().split()))
 a.sort()
@@ -15,7 +14,6 @@ median_cost = a[ (n-1) // 2 ]
 print(median_cost)
 
 
-# Q.25 (실패율)
 def solution(N, stages):
     
     answer = []
